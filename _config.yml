@@ -5,3 +5,8 @@ description: This is where i write stuff about my projects
 layout: page
 title: "Solarforecast"
 permalink: /solarforecast
+
+layout: post
+title: "Proof of Concept Solarforecast"
+date: 2022-06-15 17:22:15 -0000
+categories: solarforecast python api
