@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Snasgul
 description: This is where i write stuff about my projects
+
+layout: page
+title: "Solarforecast"
+permalink: /solarforecast
